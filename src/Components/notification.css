@@ -1,0 +1,23 @@
+.notificationerror, .notificationsuccess {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px; 
+    height: 60px;
+    background-color: #f44336;  
+    color: white; 
+    width : 90%;
+    border-radius: 10px;
+}
+
+.notificationsuccess {
+    background-color: green;
+}
+
+.cancel {
+    cursor: pointer; 
+    background: none; 
+    border: none; 
+    color: inherit; 
+    font-size: 1rem;
+}

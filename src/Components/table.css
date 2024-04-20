@@ -1,0 +1,25 @@
+.profile-table {
+    width: 80%; 
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+    background-color: #fff; 
+    border-radius: 8px; 
+}
+
+.profile-table th, .profile-table td {
+    padding: 12px 20px; 
+    text-align: left; 
+    border-bottom: 1px solid #f0f0f0; 
+}
+
+.profile-table th {
+    background-color: #f9f9f9; 
+    color: #333; 
+    font-weight: bold; 
+}
+
+.profile-table tr:hover {
+    background-color: #8ab8cb;
+    color : white;
+}
