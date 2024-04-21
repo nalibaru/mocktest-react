@@ -20,6 +20,6 @@ Implements functionality for users to change their profile photos.
 Ensures seamless integration with the latest photos in the user interface.
 ![Student can take Mock test](https://github.com/nalibaru/mocktest-react/blob/master/mocktest.png)
 ![Login page with server side authentication](https://github.com/nalibaru/mocktest-react/blob/master/login.png)
-![upload the pdf file and add draggable text field to update](https://github.com/nalibaru/mocktest-react/blob/master/fileupload.png)
-![File upload page to upload the pdf and view all the uploaded pdf](https://github.com/nalibaru/mocktest-react/blob/master/filepage.png)
+![upload the pdf file and add draggable text field to update](https://github.com/nalibaru/mocktest-react/blob/master/pdfupload.png)
+![File upload page to upload the pdf and view all the uploaded pdf](https://github.com/nalibaru/mocktest-react/blob/master/pdffile.png)
 ![Timetable module which displays the weekly timetable and the time remaining for upcoming events to happen](https://github.com/nalibaru/mocktest-react/blob/master/timetable.png)
